@@ -27,6 +27,10 @@ uvicorn server:app
 
 ## Test
 
+<p align="center">
+  <img width="686" height="913" alt="Bildschirmfoto 2026-03-30 um 14 53 50" src="https://github.com/user-attachments/assets/93adae6f-c38b-4a11-9c15-e2e5ea3b25cd" />
+</p>
+
 ```bash
 Hi, my name is John Smith (friends call me Johnny).  
 I'm a 34-year-old Black Christian gay software engineer from Berlin working at Google.  
